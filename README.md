@@ -1,6 +1,6 @@
 # Deploying to Kubernetes via Terraform in AWS EKS
 
-## You should be able to run kubectl in your local machine adjust your .kube/config 
+You should be able to run kubectl in your local machine adjust your .kube/config 
 
 ## Configure kubectl
 ```
